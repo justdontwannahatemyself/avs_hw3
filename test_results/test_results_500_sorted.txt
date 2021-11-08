@@ -1,0 +1,502 @@
+Sorted container:
+Container is store 500 animals:
+It is a Fish.Name is b, area is river, weight is 975801, fraction is 0.0001004303131478652 
+It is a Fish.Name is m, area is lake, weight is 992432, fraction is 0.000109831202540829 
+It is a Fish.Name is b, area is river, weight is 889818, fraction is 0.00011013488151509635 
+It is a Bird.Name is b, ability to migrate: False, weight is 889107, fraction is 0.00011022295404265178 
+It is a Bird.Name is g, ability to migrate: True, weight is 931004, fraction is 0.00011063325184424557 
+It is a Fish.Name is n, area is sea, weight is 982611, fraction is 0.00011194664012513599 
+It is a Bird.Name is d, ability to migrate: False, weight is 867195, fraction is 0.00011531431800229476 
+It is a Fish.Name is e, area is lake, weight is 867187, fraction is 0.00011646853562149801 
+It is a Bird.Name is l, ability to migrate: False, weight is 898708, fraction is 0.00012017251432055796 
+It is Beast.Name is d, type is herbivores, weight is 806110, fraction is 0.00012405254865961222 
+It is a Fish.Name is s, area is river, weight is 915362, fraction is 0.0001256333559837529 
+It is Beast.Name is p, type is predator, weight is 885734, fraction is 0.00012644879839771307 
+It is a Bird.Name is g, ability to migrate: False, weight is 790433, fraction is 0.00013030832467773992 
+It is a Bird.Name is a, ability to migrate: True, weight is 742278, fraction is 0.00013067880228162493 
+It is a Bird.Name is x, ability to migrate: True, weight is 879639, fraction is 0.00013641959940384634 
+It is a Fish.Name is c, area is lake, weight is 641879, fraction is 0.0001542346766290843 
+It is a Fish.Name is d, area is river, weight is 627426, fraction is 0.00015938134536981253 
+It is a Bird.Name is c, ability to migrate: False, weight is 547114, fraction is 0.00018094949133087436 
+It is a Bird.Name is i, ability to migrate: False, weight is 552606, fraction is 0.00019000879469278293 
+It is a Fish.Name is u, area is river, weight is 614653, fraction is 0.00019035130390643177 
+It is Beast.Name is m, type is insectivores, weight is 566055, fraction is 0.00019256079356246302 
+It is Beast.Name is u, type is predator, weight is 551286, fraction is 0.00021223103797303033 
+It is Beast.Name is dh, type is herbivores, weight is 960227, fraction is 0.00021244976448277333 
+It is a Bird.Name is p, ability to migrate: True, weight is 521508, fraction is 0.0002147618061467897 
+It is Beast.Name is y, type is insectivores, weight is 557702, fraction is 0.00021696174659585228 
+It is a Bird.Name is i, ability to migrate: True, weight is 474559, fraction is 0.0002212580522126859 
+It is Beast.Name is qg, type is insectivores, weight is 972606, fraction is 0.00022208376259245778 
+It is a Fish.Name is dy, area is sea, weight is 985182, fraction is 0.00022432403352883021 
+It is a Fish.Name is ep, area is river, weight is 917427, fraction is 0.00023217106102174886 
+It is a Fish.Name is tu, area is lake, weight is 996940, fraction is 0.00023371516841535098 
+It is Beast.Name is is, type is insectivores, weight is 918122, fraction is 0.00023961957125523623 
+It is a Fish.Name is cx, area is river, weight is 906821, fraction is 0.0002415030088628296 
+It is a Fish.Name is d, area is sea, weight is 409951, fraction is 0.00024393159182438878 
+It is a Bird.Name is v, ability to migrate: False, weight is 482407, fraction is 0.000244606732489371 
+It is a Bird.Name is hd, ability to migrate: True, weight is 821321, fraction is 0.00024838035311406867 
+It is a Fish.Name is a, area is lake, weight is 388130, fraction is 0.0002499162651688867 
+It is a Fish.Name is qp, area is sea, weight is 857640, fraction is 0.0002623478382538128 
+It is a Bird.Name is jo, ability to migrate: True, weight is 823585, fraction is 0.00026348221495049083 
+It is a Bird.Name is ml, ability to migrate: True, weight is 758991, fraction is 0.0002859058934822679 
+It is Beast.Name is yq, type is predator, weight is 810661, fraction is 0.00028865333351425564 
+It is a Fish.Name is ok, area is river, weight is 734386, fraction is 0.000296846617446411 
+It is a Fish.Name is ty, area is lake, weight is 778893, fraction is 0.0003042779945384026 
+It is a Bird.Name is sk, ability to migrate: False, weight is 714523, fraction is 0.00031069678652751554 
+It is a Bird.Name is g, ability to migrate: False, weight is 331496, fraction is 0.0003107126481164177 
+It is a Fish.Name is l, area is river, weight is 335339, fraction is 0.0003220621520312281 
+It is a Bird.Name is ex, ability to migrate: False, weight is 686013, fraction is 0.00032215132949375597 
+It is Beast.Name is je, type is herbivores, weight is 636567, fraction is 0.000325181795474789 
+It is a Bird.Name is ke, ability to migrate: False, weight is 631173, fraction is 0.00032954514847751727 
+It is a Fish.Name is kdv, area is river, weight is 984505, fraction is 0.00033011513400135094 
+It is a Fish.Name is ach, area is river, weight is 904566, fraction is 0.0003316507584852847 
+It is Beast.Name is bgh, type is predator, weight is 905931, fraction is 0.000336670232059616 
+It is Beast.Name is ck, type is insectivores, weight is 598993, fraction is 0.00034391052983924686 
+It is a Bird.Name is sm, ability to migrate: False, weight is 647920, fraction is 0.00034572169403630077 
+It is a Fish.Name is hqa, area is lake, weight is 879937, fraction is 0.00035684372858511463 
+It is Beast.Name is t, type is herbivores, weight is 324452, fraction is 0.0003575259206292456 
+It is a Fish.Name is ny, area is sea, weight is 641941, fraction is 0.00035984615408581164 
+It is a Bird.Name is miw, ability to migrate: False, weight is 916443, fraction is 0.0003633613874512654 
+It is a Bird.Name is pnh, ability to migrate: True, weight is 888970, fraction is 0.0003667165371159882 
+It is a Fish.Name is wiu, area is lake, weight is 923925, fraction is 0.0003690775766431258 
+It is Beast.Name is yfp, type is predator, weight is 904559, fraction is 0.0003703462129059575 
+It is a Bird.Name is hl, ability to migrate: True, weight is 563460, fraction is 0.00037624676108330673 
+It is Beast.Name is ei, type is insectivores, weight is 537600, fraction is 0.0003831845238095238 
+It is Beast.Name is ch, type is herbivores, weight is 529725, fraction is 0.000383217707300958 
+It is Beast.Name is uhd, type is insectivores, weight is 832658, fraction is 0.000385512419264572 
+It is Beast.Name is o, type is predator, weight is 276852, fraction is 0.00040093624030167744 
+It is a Fish.Name is u, area is lake, weight is 289873, fraction is 0.0004036250357915363 
+It is a Bird.Name is ird, ability to migrate: False, weight is 755685, fraction is 0.00042213356094139754 
+It is Beast.Name is jfmf, type is herbivores, weight is 988844, fraction is 0.00042372709952227046 
+It is a Fish.Name is yo, area is river, weight is 542560, fraction is 0.00042760247714538485 
+It is a Bird.Name is bhsr, ability to migrate: True, weight is 989846, fraction is 0.0004354212675507099 
+It is Beast.Name is jfg, type is insectivores, weight is 689159, fraction is 0.00045127466956101567 
+It is Beast.Name is to, type is herbivores, weight is 501100, fraction is 0.00045300339253641987 
+It is Beast.Name is qis, type is insectivores, weight is 719214, fraction is 0.0004630054476136449 
+It is a Bird.Name is jhx, ability to migrate: True, weight is 711097, fraction is 0.00046407170892297396 
+It is a Fish.Name is eodx, area is lake, weight is 923138, fraction is 0.00046796903604878146 
+It is a Bird.Name is bon, ability to migrate: True, weight is 673954, fraction is 0.0004733260726993237 
+It is a Fish.Name is nh, area is river, weight is 450118, fraction is 0.00047543088701185025 
+It is a Bird.Name is cock, ability to migrate: False, weight is 860158, fraction is 0.0004836320768975002 
+It is Beast.Name is l, type is insectivores, weight is 222471, fraction is 0.0004854565314130831 
+It is a Bird.Name is i, ability to migrate: True, weight is 207984, fraction is 0.0005048465266558966 
+It is a Bird.Name is p, ability to migrate: True, weight is 219302, fraction is 0.0005107112566232866 
+It is a Fish.Name is vyv, area is lake, weight is 695755, fraction is 0.0005131116556833943 
+It is Beast.Name is ijp, type is insectivores, weight is 621718, fraction is 0.0005195281462013324 
+It is Beast.Name is wuuh, type is herbivores, weight is 869914, fraction is 0.0005253392864122201 
+It is a Fish.Name is oeewe, area is sea, weight is 996645, fraction is 0.0005347942346572752 
+It is a Fish.Name is ycsc, area is river, weight is 797003, fraction is 0.0005445399829109803 
+It is a Bird.Name is wrh, ability to migrate: True, weight is 609962, fraction is 0.0005524934340172011 
+It is Beast.Name is ujq, type is insectivores, weight is 599803, fraction is 0.0005601839270560501 
+It is Beast.Name is ivkhc, type is herbivores, weight is 947185, fraction is 0.0005627200599671658 
+It is Beast.Name is etdc, type is predator, weight is 738390, fraction is 0.0005633879115372635 
+It is Beast.Name is riyjm, type is herbivores, weight is 981229, fraction is 0.0005656172004700228 
+It is a Bird.Name is mep, ability to migrate: True, weight is 565435, fraction is 0.0005694730605639906 
+It is a Fish.Name is q, area is sea, weight is 197765, fraction is 0.0005713852299446313 
+It is a Bird.Name is e, ability to migrate: True, weight is 175053, fraction is 0.0005769681182270513 
+It is a Bird.Name is wc, ability to migrate: False, weight is 376225, fraction is 0.0005794404943850089 
+It is a Fish.Name is kn, area is sea, weight is 371488, fraction is 0.0005841373072616074 
+It is a Fish.Name is rjfd, area is river, weight is 722379, fraction is 0.0005841808801197155 
+It is Beast.Name is hpva, type is herbivores, weight is 736035, fraction is 0.0005855699796884659 
+It is Beast.Name is otak, type is predator, weight is 733842, fraction is 0.0005873198862970503 
+It is a Bird.Name is ssgbv, ability to migrate: False, weight is 931239, fraction is 0.0005895371650027544 
+It is a Fish.Name is n, area is river, weight is 185075, fraction is 0.0005943536404160475 
+It is Beast.Name is nagv, type is herbivores, weight is 716790, fraction is 0.0005971065444551403 
+It is a Fish.Name is insw, area is river, weight is 751481, fraction is 0.0005974868293409947 
+It is a Fish.Name is ukqt, area is river, weight is 757679, fraction is 0.0005978785211151424 
+It is Beast.Name is csn, type is insectivores, weight is 531694, fraction is 0.0006093730604445414 
+It is a Bird.Name is qrln, ability to migrate: False, weight is 727138, fraction is 0.0006119883708456991 
+It is Beast.Name is ybp, type is insectivores, weight is 540422, fraction is 0.0006124843178108959 
+It is Beast.Name is vg, type is predator, weight is 357875, fraction is 0.0006175340551868669 
+It is Beast.Name is reo, type is herbivores, weight is 525101, fraction is 0.0006208329445192449 
+It is Beast.Name is il, type is predator, weight is 342866, fraction is 0.0006212339514562541 
+It is a Bird.Name is wkncm, ability to migrate: True, weight is 873877, fraction is 0.0006225132369887295 
+It is a Fish.Name is xlpm, area is lake, weight is 721150, fraction is 0.0006226166539554877 
+It is a Fish.Name is rlvtb, area is river, weight is 889258, fraction is 0.0006229913028614868 
+It is a Fish.Name is yrcvh, area is lake, weight is 890027, fraction is 0.000624700149546025 
+It is a Fish.Name is amdf, area is river, weight is 639011, fraction is 0.000638486661418974 
+It is a Bird.Name is jxuy, ability to migrate: False, weight is 723969, fraction is 0.0006409114202403694 
+It is a Bird.Name is xjjip, ability to migrate: False, weight is 850960, fraction is 0.0006451537087524678 
+It is a Bird.Name is tryft, ability to migrate: False, weight is 876772, fraction is 0.0006489714543803862 
+It is a Fish.Name is fbtvcn, area is lake, weight is 990762, fraction is 0.0006489954196870691 
+It is Beast.Name is lmug, type is predator, weight is 670083, fraction is 0.0006521580162457487 
+It is a Fish.Name is cwlrv, area is lake, weight is 838394, fraction is 0.0006655581981741282 
+It is a Fish.Name is ghcc, area is river, weight is 605517, fraction is 0.0006688499249401751 
+It is a Bird.Name is kotli, ability to migrate: False, weight is 812340, fraction is 0.0006733633700174804 
+It is a Bird.Name is tplsw, ability to migrate: True, weight is 844743, fraction is 0.0006747614363185016 
+It is a Fish.Name is nenu, area is sea, weight is 648790, fraction is 0.0006751028838298987 
+It is a Fish.Name is xcd, area is river, weight is 467733, fraction is 0.0006820130288006192 
+It is Beast.Name is ldyo, type is predator, weight is 643627, fraction is 0.0006836257646121123 
+It is a Bird.Name is vjxlpe, ability to migrate: True, weight is 953083, fraction is 0.000697735664155168 
+It is a Fish.Name is nglt, area is sea, weight is 614970, fraction is 0.0007106037692895589 
+It is a Fish.Name is tldhmd, area is lake, weight is 888113, fraction is 0.0007172510705281873 
+It is Beast.Name is uxb, type is insectivores, weight is 466120, fraction is 0.0007186990474555908 
+It is a Bird.Name is n, ability to migrate: True, weight is 153049, fraction is 0.0007187240687622918 
+It is a Fish.Name is kxqtb, area is lake, weight is 768351, fraction is 0.0007210246358760515 
+It is a Fish.Name is qpcklg, area is river, weight is 883235, fraction is 0.0007268733689222008 
+It is a Bird.Name is grnxau, ability to migrate: False, weight is 909330, fraction is 0.0007269088229795564 
+It is Beast.Name is vdasa, type is predator, weight is 720861, fraction is 0.0007310702063227168 
+It is a Bird.Name is xphmr, ability to migrate: True, weight is 760263, fraction is 0.0007352718730228882 
+It is a Bird.Name is wmai, ability to migrate: True, weight is 581750, fraction is 0.0007391491190373872 
+It is a Fish.Name is yv, area is river, weight is 319170, fraction is 0.0007488172447285146 
+It is a Fish.Name is fs, area is sea, weight is 288777, fraction is 0.0007514448865387479 
+It is Beast.Name is uscmx, type is insectivores, weight is 745192, fraction is 0.0007514841812579845 
+It is Beast.Name is py, type is predator, weight is 308527, fraction is 0.0007552013275985571 
+It is Beast.Name is qxfaku, type is predator, weight is 867217, fraction is 0.0007564427357858529 
+It is a Bird.Name is hcjvps, ability to migrate: False, weight is 863079, fraction is 0.000757752187227357 
+It is a Fish.Name is tyv, area is sea, weight is 467058, fraction is 0.0007600769069366117 
+It is a Bird.Name is jfonas, ability to migrate: False, weight is 835003, fraction is 0.0007676619125919308 
+It is a Fish.Name is u, area is sea, weight is 152319, fraction is 0.0007681247907352333 
+It is a Fish.Name is vxd, area is sea, weight is 435913, fraction is 0.0007753840789331817 
+It is a Bird.Name is hfkfoo, ability to migrate: True, weight is 820538, fraction is 0.00077631992668225 
+It is a Fish.Name is nple, area is sea, weight is 555069, fraction is 0.0007764800412201005 
+It is a Bird.Name is rjgap, ability to migrate: True, weight is 682785, fraction is 0.0007791618152126951 
+It is a Bird.Name is jmvvd, ability to migrate: True, weight is 701289, fraction is 0.0007856960539805985 
+It is a Bird.Name is ysdt, ability to migrate: True, weight is 571115, fraction is 0.0007914342995718901 
+It is a Fish.Name is cif, area is sea, weight is 384318, fraction is 0.0007962156339281532 
+It is a Fish.Name is uwucy, area is lake, weight is 712990, fraction is 0.0008036578353132583 
+It is a Fish.Name is brjbajq, area is river, weight is 908083, fraction is 0.0008060937161030434 
+It is a Fish.Name is dsj, area is sea, weight is 395765, fraction is 0.0008110873877174586 
+It is a Bird.Name is qjvug, ability to migrate: False, weight is 685848, fraction is 0.0008121333006730354 
+It is a Fish.Name is vlc, area is lake, weight is 399465, fraction is 0.0008135881741829698 
+It is a Fish.Name is ikavrnn, area is lake, weight is 932561, fraction is 0.0008160324096761498 
+It is a Bird.Name is uiifdx, ability to migrate: True, weight is 793601, fraction is 0.0008177913082266781 
+It is a Bird.Name is kkkuf, ability to migrate: False, weight is 657912, fraction is 0.0008207784627731368 
+It is a Fish.Name is hqjjo, area is river, weight is 656263, fraction is 0.0008228408427718765 
+It is Beast.Name is pmpvrec, type is insectivores, weight is 919527, fraction is 0.000831949469672995 
+It is Beast.Name is qmglgse, type is predator, weight is 900362, fraction is 0.0008352196116673072 
+It is a Fish.Name is swi, area is sea, weight is 404713, fraction is 0.0008376306172522257 
+It is a Fish.Name is u, area is river, weight is 137669, fraction is 0.0008498645301411356 
+It is a Fish.Name is pffuwvq, area is lake, weight is 915742, fraction is 0.0008550443247115454 
+It is Beast.Name is efs, type is insectivores, weight is 366819, fraction is 0.000866912564507291 
+It is Beast.Name is jrg, type is insectivores, weight is 372016, fraction is 0.0008682422261408111 
+It is Beast.Name is dbujyv, type is insectivores, weight is 751834, fraction is 0.0008778533559269733 
+It is a Bird.Name is hiiy, ability to migrate: True, weight is 495340, fraction is 0.0008781846812290548 
+It is a Bird.Name is iktp, ability to migrate: False, weight is 497066, fraction is 0.0008851943202713523 
+It is Beast.Name is ot, type is predator, weight is 255942, fraction is 0.000886919692742887 
+It is a Fish.Name is kcebmo, area is lake, weight is 703380, fraction is 0.0008885666353891211 
+It is a Fish.Name is jcdini, area is sea, weight is 703309, fraction is 0.0008886563373993508 
+It is a Bird.Name is glldaef, ability to migrate: False, weight is 805176, fraction is 0.0008929724681311912 
+It is a Fish.Name is taggc, area is lake, weight is 578371, fraction is 0.0008956189020542178 
+It is a Bird.Name is gtnbwhhs, ability to migrate: False, weight is 968717, fraction is 0.0008970628160752831 
+It is a Bird.Name is qplxkwhq, ability to migrate: True, weight is 994137, fraction is 0.0009012842294371902 
+It is a Bird.Name is dijrltgl, ability to migrate: False, weight is 953988, fraction is 0.0009014788445976259 
+It is Beast.Name is cnp, type is insectivores, weight is 350263, fraction is 0.0009164542072671107 
+It is a Fish.Name is fjdqhju, area is lake, weight is 810197, fraction is 0.0009232322509216894 
+It is Beast.Name is phxyodjq, type is predator, weight is 957911, fraction is 0.0009259732897941458 
+It is Beast.Name is erbwuwf, type is insectivores, weight is 828719, fraction is 0.0009291448609239078 
+It is Beast.Name is xkgwv, type is predator, weight is 609363, fraction is 0.0009304798617572776 
+It is Beast.Name is lofsitgy, type is predator, weight is 945533, fraction is 0.0009317496057779052 
+It is a Bird.Name is bgoh, ability to migrate: True, weight is 446128, fraction is 0.0009324678119284152 
+It is Beast.Name is clcjo, type is herbivores, weight is 556216, fraction is 0.0009402821925295209 
+It is Beast.Name is y, type is insectivores, weight is 128305, fraction is 0.0009430653520907214 
+It is a Fish.Name is aeoibile, area is sea, weight is 867231, fraction is 0.0009524567272157015 
+It is Beast.Name is dbubkl, type is insectivores, weight is 654476, fraction is 0.0009595462629645702 
+It is a Bird.Name is kmwd, ability to migrate: True, weight is 451959, fraction is 0.0009624766848320312 
+It is a Fish.Name is j, area is sea, weight is 109476, fraction is 0.0009682487485841646 
+It is a Bird.Name is paptuigl, ability to migrate: True, weight is 893837, fraction is 0.0009733318267200843 
+It is a Bird.Name is frvq, ability to migrate: False, weight is 454147, fraction is 0.0009842628047746654 
+It is Beast.Name is tdhdhuf, type is insectivores, weight is 748953, fraction is 0.000992051570659307 
+It is a Bird.Name is nxm, ability to migrate: True, weight is 340983, fraction is 0.0009941844608088966 
+It is a Fish.Name is timiaoyw, area is river, weight is 883122, fraction is 0.0009998618537416122 
+It is Beast.Name is pvkbmvn, type is predator, weight is 768227, fraction is 0.00100491130876681 
+It is a Bird.Name is nvc, ability to migrate: False, weight is 323728, fraction is 0.0010101072505313102 
+It is a Bird.Name is ofoqg, ability to migrate: True, weight is 532897, fraction is 0.0010133290298125154 
+It is a Fish.Name is filvsso, area is river, weight is 752735, fraction is 0.0010282503138554738 
+It is a Bird.Name is wetqwrsf, ability to migrate: True, weight is 872176, fraction is 0.0010307552604061567 
+It is Beast.Name is xiui, type is insectivores, weight is 433036, fraction is 0.0010322467416103973 
+It is a Bird.Name is vnosyxtd, ability to migrate: True, weight is 879377, fraction is 0.0010359606858036997 
+It is a Fish.Name is uquipyyrj, area is river, weight is 986785, fraction is 0.0010397401662976232 
+It is a Bird.Name is ajxyli, ability to migrate: True, weight is 630607, fraction is 0.0010418533254467521 
+It is a Fish.Name is ecst, area is sea, weight is 412916, fraction is 0.00104379583256643 
+It is a Bird.Name is ebotwseqr, ability to migrate: False, weight is 943977, fraction is 0.0010466356701487431 
+It is a Fish.Name is kywuhvqa, area is sea, weight is 854659, fraction is 0.0010483713387444582 
+It is a Bird.Name is auaxdxyox, ability to migrate: False, weight is 948214, fraction is 0.001057778096505641 
+It is a Fish.Name is htwdfda, area is river, weight is 694253, fraction is 0.0010630130514380205 
+It is a Fish.Name is umhqlgrvl, area is sea, weight is 934175, fraction is 0.0010640404635105841 
+It is Beast.Name is yvfpjw, type is herbivores, weight is 636301, fraction is 0.0010655334503639 
+It is Beast.Name is yx, type is herbivores, weight is 225278, fraction is 0.0010697893269649055 
+It is a Fish.Name is efqfpdmk, area is river, weight is 787476, fraction is 0.0010743184554195936 
+It is a Bird.Name is ntoc, ability to migrate: True, weight is 403442, fraction is 0.0010807005715815408 
+It is a Bird.Name is yelur, ability to migrate: False, weight is 517600, fraction is 0.0010838485316846985 
+It is a Fish.Name is cgh, area is lake, weight is 281845, fraction is 0.0010857031347016976 
+It is Beast.Name is tj, type is insectivores, weight is 203616, fraction is 0.0010902876001885903 
+It is a Bird.Name is qgvhy, ability to migrate: False, weight is 503646, fraction is 0.0011099065613546023 
+It is Beast.Name is inmvhygmc, type is insectivores, weight is 875102, fraction is 0.0011175840073500004 
+It is a Bird.Name is wudpbobmao, ability to migrate: False, weight is 957911, fraction is 0.0011191018789845821 
+It is a Fish.Name is bfkivw, area is lake, weight is 579791, fraction is 0.0011193688760260162 
+It is Beast.Name is miqhaavav, type is herbivores, weight is 852249, fraction is 0.0011240846278493726 
+It is a Fish.Name is woqntbu, area is sea, weight is 697112, fraction is 0.0011246399430794478 
+It is a Bird.Name is twqbtopfgh, ability to migrate: True, weight is 969992, fraction is 0.0011278443533554916 
+It is a Fish.Name is lqnaqedwww, area is lake, weight is 973161, fraction is 0.0011293095387094221 
+It is Beast.Name is yixghm, type is herbivores, weight is 581259, fraction is 0.0011389070964922695 
+It is Beast.Name is sji, type is herbivores, weight is 282590, fraction is 0.0011536147775929792 
+It is Beast.Name is wyfqhexth, type is predator, weight is 866656, fraction is 0.0011538603552043718 
+It is a Fish.Name is aveccmasg, area is river, weight is 812805, fraction is 0.0011540283339792447 
+It is a Bird.Name is jaefdxunm, ability to migrate: False, weight is 829062, fraction is 0.001160347477028256 
+It is Beast.Name is vhbybyu, type is insectivores, weight is 666844, fraction is 0.0011651900594441878 
+It is a Bird.Name is xufglrqrk, ability to migrate: False, weight is 853657, fraction is 0.0011690878186437878 
+It is a Bird.Name is bkgkoyjhf, ability to migrate: True, weight is 817862, fraction is 0.0011725694554827098 
+It is a Fish.Name is mwgfmysi, area is sea, weight is 751733, fraction is 0.0011746191799481998 
+It is a Bird.Name is yxvtebkhn, ability to migrate: False, weight is 842912, fraction is 0.0011804316464826695 
+It is a Fish.Name is vdfg, area is sea, weight is 357927, fraction is 0.0011818052284404362 
+It is Beast.Name is tpniv, type is herbivores, weight is 474416, fraction is 0.0011825064921925062 
+It is a Bird.Name is bxvm, ability to migrate: False, weight is 375579, fraction is 0.0011848372779095743 
+It is a Fish.Name is bxtfqb, area is river, weight is 544941, fraction is 0.0011872844950187268 
+It is a Bird.Name is kfceanpsch, ability to migrate: True, weight is 879602, fraction is 0.0011891741946925996 
+It is a Fish.Name is nyyxujolka, area is lake, weight is 929722, fraction is 0.0012025099976121895 
+It is Beast.Name is be, type is predator, weight is 164954, fraction is 0.0012063969349030638 
+It is a Fish.Name is nc, area is river, weight is 172873, fraction is 0.0012089800026609128 
+It is a Bird.Name is qjfdl, ability to migrate: False, weight is 436792, fraction is 0.0012111027674499533 
+It is a Bird.Name is rpakgu, ability to migrate: True, weight is 535993, fraction is 0.0012127024046955836 
+It is a Fish.Name is wgixhqib, area is sea, weight is 714004, fraction is 0.001214278911602736 
+It is a Fish.Name is hpnde, area is lake, weight is 433085, fraction is 0.0012168511954928015 
+It is Beast.Name is igdgev, type is herbivores, weight is 516640, fraction is 0.0012194177764013627 
+It is a Bird.Name is kvapkg, ability to migrate: False, weight is 518328, fraction is 0.0012424565140220093 
+It is Beast.Name is nmdtojis, type is herbivores, weight is 690062, fraction is 0.0012636545701690573 
+It is a Bird.Name is wqagcadtrf, ability to migrate: True, weight is 830762, fraction is 0.001275937031303791 
+It is Beast.Name is adwc, type is herbivores, weight is 325016, fraction is 0.0012768602161124375 
+It is a Bird.Name is poqrysji, ability to migrate: False, weight is 701481, fraction is 0.0012787231585745017 
+It is a Fish.Name is paxanky, area is lake, weight is 596344, fraction is 0.001281139744845257 
+It is a Bird.Name is hrujjprgf, ability to migrate: True, weight is 760008, fraction is 0.0012868285596993715 
+It is a Bird.Name is btwrnsele, ability to migrate: False, weight is 758282, fraction is 0.0012950327186983207 
+It is Beast.Name is exxcrxkpop, type is herbivores, weight is 859208, fraction is 0.001298870587797134 
+It is Beast.Name is frquosds, type is insectivores, weight is 681323, fraction is 0.0013018788445421628 
+It is a Fish.Name is pppxyujf, area is lake, weight is 685512, fraction is 0.0013158048290912486 
+It is a Bird.Name is pqsl, ability to migrate: False, weight is 340031, fraction is 0.0013175269313680223 
+It is Beast.Name is mqdxnyysq, type is herbivores, weight is 770186, fraction is 0.0013269521907695024 
+It is a Fish.Name is fpqxwpeaf, area is sea, weight is 730618, fraction is 0.0013385928077326319 
+It is a Bird.Name is irarjdmv, ability to migrate: False, weight is 640559, fraction is 0.00134726075193698 
+It is a Bird.Name is auwrpaes, ability to migrate: True, weight is 645961, fraction is 0.0013499266983610465 
+It is a Fish.Name is hkhoyjrr, area is lake, weight is 652543, fraction is 0.0013501025986026975 
+It is a Fish.Name is xvguvc, area is river, weight is 498765, fraction is 0.0013533427566088238 
+It is a Bird.Name is awryy, ability to migrate: False, weight is 422291, fraction is 0.0013545161985455527 
+It is a Fish.Name is wvpeikt, area is lake, weight is 573518, fraction is 0.0013565398121767756 
+It is a Bird.Name is pkmqmfqix, ability to migrate: True, weight is 729279, fraction is 0.001357505152349101 
+It is Beast.Name is yboosdrshv, type is predator, weight is 809053, fraction is 0.0013682663558506056 
+It is a Bird.Name is hehbithes, ability to migrate: True, weight is 687122, fraction is 0.0013796676572719255 
+It is a Fish.Name is ngwlevha, area is sea, weight is 619277, fraction is 0.0013887161964678165 
+It is a Bird.Name is raoiwel, ability to migrate: False, weight is 539932, fraction is 0.0013983242334219864 
+It is a Fish.Name is vcnxacbo, area is river, weight is 609025, fraction is 0.001398957349862485 
+It is a Bird.Name is ndouqnbvs, ability to migrate: True, weight is 701704, fraction is 0.0014137015037679705 
+It is Beast.Name is utdpye, type is herbivores, weight is 467897, fraction is 0.0014255274130845037 
+It is a Fish.Name is cgr, area is lake, weight is 219865, fraction is 0.0014372455825165443 
+It is Beast.Name is tcnvovi, type is insectivores, weight is 539852, fraction is 0.0014392833591428762 
+It is a Bird.Name is vvopo, ability to migrate: True, weight is 395604, fraction is 0.0014408347741681074 
+It is a Fish.Name is wwe, area is sea, weight is 234782, fraction is 0.001443892632314232 
+It is Beast.Name is peokao, type is predator, weight is 441763, fraction is 0.0014464769571014323 
+It is Beast.Name is xkuhdxjeby, type is predator, weight is 754048, fraction is 0.001450836021049058 
+It is Beast.Name is dgqpitmru, type is predator, weight is 680902, fraction is 0.0014524850859595068 
+It is a Bird.Name is mwnkkbthxq, ability to migrate: False, weight is 758810, fraction is 0.0014535918082260381 
+It is a Fish.Name is jkr, area is sea, weight is 223408, fraction is 0.0014636897514860704 
+It is Beast.Name is hugyen, type is herbivores, weight is 447958, fraction is 0.001464423003942334 
+It is Beast.Name is pcjasstr, type is herbivores, weight is 592753, fraction is 0.0014744758778108252 
+It is a Fish.Name is avuclufeu, area is river, weight is 660373, fraction is 0.0014779526116300938 
+It is a Bird.Name is pqpwxv, ability to migrate: True, weight is 469366, fraction is 0.0014785902685750566 
+It is a Bird.Name is xmpt, ability to migrate: False, weight is 308336, fraction is 0.0014821493435732448 
+It is Beast.Name is nxohgrn, type is herbivores, weight is 516416, fraction is 0.0014949188251332259 
+It is a Fish.Name is pebhks, area is river, weight is 425814, fraction is 0.0014959583292235576 
+It is Beast.Name is fcxpuqge, type is herbivores, weight is 573106, fraction is 0.0015128091487438624 
+It is Beast.Name is duhlamhsq, type is insectivores, weight is 639118, fraction is 0.0015130226343179193 
+It is a Fish.Name is wbqbxgh, area is sea, weight is 496067, fraction is 0.0015219718304180685 
+It is a Fish.Name is oqcxja, area is river, weight is 419929, fraction is 0.0015383552933948357 
+It is Beast.Name is ytgpblubj, type is predator, weight is 634338, fraction is 0.001543341247095397 
+It is a Fish.Name is oiyqogr, area is river, weight is 503819, fraction is 0.0015442053594644108 
+It is a Fish.Name is srsbgdlr, area is sea, weight is 560921, fraction is 0.0015456722069596253 
+It is Beast.Name is mkbhh, type is insectivores, weight is 331745, fraction is 0.001573497716619693 
+It is a Bird.Name is yjtpslseut, ability to migrate: False, weight is 714020, fraction is 0.0015783871600235288 
+It is a Bird.Name is jigthln, ability to migrate: False, weight is 469173, fraction is 0.0016028202816445107 
+It is a Fish.Name is tmxvok, area is lake, weight is 423145, fraction is 0.0016093774001819706 
+It is a Fish.Name is tvmgspnrsq, area is sea, weight is 697545, fraction is 0.0016127991742468227 
+It is a Fish.Name is se, area is river, weight is 133308, fraction is 0.0016203078584931137 
+It is a Bird.Name is brmmadcsx, ability to migrate: False, weight is 586205, fraction is 0.0016393582449825573 
+It is a Fish.Name is qxjot, area is sea, weight is 344194, fraction is 0.0016444214599905867 
+It is a Bird.Name is ocmowyox, ability to migrate: False, weight is 544878, fraction is 0.0016535811686285737 
+It is a Fish.Name is xeciqdxel, area is sea, weight is 581933, fraction is 0.0016617033232348053 
+It is Beast.Name is qbfhviwy, type is herbivores, weight is 528675, fraction is 0.0016645387052537002 
+It is Beast.Name is rfiioop, type is insectivores, weight is 452592, fraction is 0.001679216601265599 
+It is Beast.Name is mmqxmnl, type is predator, weight is 459330, fraction is 0.0016937713626368842 
+It is a Fish.Name is knynekocet, area is sea, weight is 635071, fraction is 0.0017053211373216537 
+It is Beast.Name is yggssmpsin, type is herbivores, weight is 644154, fraction is 0.0017200855695998162 
+It is a Bird.Name is m, ability to migrate: False, weight is 63318, fraction is 0.0017214694083830821 
+It is a Fish.Name is flsynmgktm, area is sea, weight is 636520, fraction is 0.0017281467982152956 
+It is a Bird.Name is uenlqrb, ability to migrate: False, weight is 439469, fraction is 0.0017316352234173515 
+It is a Bird.Name is rjpultkive, ability to migrate: True, weight is 626991, fraction is 0.0017607908247486805 
+It is a Bird.Name is fyrpucbblm, ability to migrate: True, weight is 607506, fraction is 0.0017744680710972403 
+It is a Bird.Name is kxfjm, ability to migrate: False, weight is 304667, fraction is 0.0017855560333084974 
+It is Beast.Name is erdlfqneh, type is insectivores, weight is 530935, fraction is 0.0017949466507199564 
+It is Beast.Name is ephebgh, type is insectivores, weight is 401722, fraction is 0.001799752067350058 
+It is Beast.Name is dfs, type is herbivores, weight is 175532, fraction is 0.0018059385183328395 
+It is a Bird.Name is luxubjndi, ability to migrate: True, weight is 542668, fraction is 0.0018077351161299357 
+It is Beast.Name is dsqlwyfig, type is herbivores, weight is 544355, fraction is 0.001811317981831709 
+It is a Fish.Name is ojkinjdijh, area is sea, weight is 584580, fraction is 0.0018132676451469432 
+It is a Fish.Name is rdefmeurct, area is river, weight is 590376, fraction is 0.0018174858056560564 
+It is Beast.Name is dycrcvivel, type is insectivores, weight is 588074, fraction is 0.0018416049680822482 
+It is Beast.Name is yeix, type is herbivores, weight is 242044, fraction is 0.0018467716613508288 
+It is Beast.Name is sgpedsk, type is herbivores, weight is 403423, fraction is 0.0018665271935412707 
+It is a Fish.Name is cufcnixy, area is sea, weight is 454606, fraction is 0.001920344210151208 
+It is Beast.Name is vanqwhsg, type is herbivores, weight is 457272, fraction is 0.001922269458877867 
+It is Beast.Name is qlsfnx, type is insectivores, weight is 347501, fraction is 0.001922296626484528 
+It is Beast.Name is ncgksi, type is predator, weight is 329644, fraction is 0.0019384548179247915 
+It is a Bird.Name is ilimux, ability to migrate: False, weight is 340417, fraction is 0.001950548885631446 
+It is Beast.Name is fs, type is herbivores, weight is 109570, fraction is 0.0019804691065072556 
+It is Beast.Name is pvqbddcwo, type is insectivores, weight is 485872, fraction is 0.00199641057727138 
+It is a Fish.Name is fimveisovm, area is lake, weight is 546927, fraction is 0.0019984385484717337 
+It is a Fish.Name is mo, area is river, weight is 108859, fraction is 0.002020962896958451 
+It is a Fish.Name is rqul, area is lake, weight is 223645, fraction is 0.002021060162310805 
+It is Beast.Name is dpxgshu, type is predator, weight is 380703, fraction is 0.0020252007470390305 
+It is Beast.Name is bhbhelm, type is herbivores, weight is 355898, fraction is 0.002028671136112032 
+It is a Fish.Name is asaosjvik, area is lake, weight is 477284, fraction is 0.0020344281392210926 
+It is Beast.Name is bowrltn, type is insectivores, weight is 374651, fraction is 0.0020712609868918006 
+It is a Bird.Name is saqs, ability to migrate: False, weight is 212321, fraction is 0.00207233387182615 
+It is Beast.Name is vknssmwba, type is herbivores, weight is 472423, fraction is 0.002091346102962811 
+It is a Bird.Name is ivoxas, ability to migrate: True, weight is 311284, fraction is 0.002139525320928798 
+It is a Bird.Name is ddrkmptlk, ability to migrate: True, weight is 451207, fraction is 0.0021564381758261727 
+It is a Bird.Name is hlmhfarpwy, ability to migrate: True, weight is 504140, fraction is 0.002162097829967866 
+It is a Bird.Name is qttwbsjsms, ability to migrate: True, weight is 517726, fraction is 0.0021671695066502357 
+It is a Bird.Name is auqu, ability to migrate: True, weight is 204382, fraction is 0.002172402657768297 
+It is Beast.Name is qwx, type is herbivores, weight is 161680, fraction is 0.0021771400296882733 
+It is a Bird.Name is xuwdwciwww, ability to migrate: True, weight is 515741, fraction is 0.0022026559843021983 
+It is a Bird.Name is pbqmetftai, ability to migrate: True, weight is 482703, fraction is 0.0022146122978311715 
+It is a Bird.Name is sxepb, ability to migrate: True, weight is 244668, fraction is 0.0022315954681445876 
+It is a Bird.Name is jtxxohpbov, ability to migrate: False, weight is 481607, fraction is 0.0023172420666643136 
+It is a Bird.Name is soampdpvcg, ability to migrate: False, weight is 461853, fraction is 0.0023297456116989604 
+It is Beast.Name is prquwbg, type is herbivores, weight is 325575, fraction is 0.0023834753896951545 
+It is a Fish.Name is clsihrnsgl, area is river, weight is 452525, fraction is 0.002388818297331639 
+It is a Fish.Name is ejynnutfb, area is river, weight is 407158, fraction is 0.002409384072031005 
+It is Beast.Name is urkkairo, type is predator, weight is 358155, fraction is 0.0024347000600298753 
+It is Beast.Name is fclcqgly, type is insectivores, weight is 342593, fraction is 0.0024898348769531193 
+It is a Bird.Name is cxkwhmets, ability to migrate: False, weight is 397012, fraction is 0.0024936273966529978 
+It is a Fish.Name is hlhphkkixm, area is lake, weight is 428113, fraction is 0.0025226984464382066 
+It is Beast.Name is ycycrq, type is herbivores, weight is 264087, fraction is 0.002525682824220806 
+It is a Fish.Name is ykxhqvbamb, area is river, weight is 421912, fraction is 0.0025716263106998617 
+It is Beast.Name is vwukta, type is predator, weight is 261573, fraction is 0.002576718545109778 
+It is Beast.Name is kfdydubci, type is herbivores, weight is 367765, fraction is 0.002580452190937147 
+It is a Bird.Name is ovtlbm, ability to migrate: True, weight is 253413, fraction is 0.002604444128754247 
+It is Beast.Name is tovffu, type is herbivores, weight is 252635, fraction is 0.0026362143012646703 
+It is a Fish.Name is nmnj, area is river, weight is 162565, fraction is 0.0026758527358287454 
+It is a Fish.Name is qwwknxygl, area is lake, weight is 374898, fraction is 0.0027207400412912314 
+It is Beast.Name is jucxxw, type is insectivores, weight is 248704, fraction is 0.002738194801852805 
+It is a Bird.Name is vnue, ability to migrate: False, weight is 162654, fraction is 0.0027420167963898828 
+It is Beast.Name is wyqxcbls, type is predator, weight is 323528, fraction is 0.002760193862664128 
+It is a Bird.Name is rbs, ability to migrate: False, weight is 116970, fraction is 0.0027955886124647346 
+It is a Fish.Name is tuoitm, area is river, weight is 240826, fraction is 0.0027987011369204323 
+It is a Bird.Name is ariaxmw, ability to migrate: True, weight is 271792, fraction is 0.0027999352445988107 
+It is Beast.Name is myko, type is predator, weight is 159775, fraction is 0.0028039430449069004 
+It is a Bird.Name is uuunhavhxg, ability to migrate: True, weight is 383796, fraction is 0.002884344808179345 
+It is a Bird.Name is pqhsh, ability to migrate: True, weight is 188378, fraction is 0.0029090445805773496 
+It is a Bird.Name is nyyaxewvk, ability to migrate: False, weight is 348533, fraction is 0.0029093371359383475 
+It is a Fish.Name is ppwpurqvp, area is lake, weight is 351676, fraction is 0.0029259886941389235 
+It is Beast.Name is qgopbfmn, type is predator, weight is 292639, fraction is 0.0029319400353336363 
+It is a Fish.Name is hmpatx, area is sea, weight is 224209, fraction is 0.002934761762462702 
+It is a Bird.Name is nsemns, ability to migrate: False, weight is 219718, fraction is 0.003003850390045422 
+It is a Bird.Name is vltrhhy, ability to migrate: True, weight is 259504, fraction is 0.0030250015414020593 
+It is a Bird.Name is ewmuilydi, ability to migrate: False, weight is 319277, fraction is 0.0030850953873908862 
+It is Beast.Name is q, type is herbivores, weight is 35972, fraction is 0.00314133214722562 
+It is a Bird.Name is aphubklkl, ability to migrate: True, weight is 304706, fraction is 0.003144014230110336 
+It is Beast.Name is jrmxtb, type is insectivores, weight is 209931, fraction is 0.0031581805450362262 
+It is a Bird.Name is qewwaxwa, ability to migrate: True, weight is 274924, fraction is 0.0032190714524741385 
+It is a Fish.Name is indywmhebo, area is sea, weight is 334748, fraction is 0.003220332907142089 
+It is a Bird.Name is fbovdt, ability to migrate: False, weight is 200202, fraction is 0.003221746036503132 
+It is a Fish.Name is pfhgteclr, area is sea, weight is 297216, fraction is 0.0032266096037898363 
+It is a Bird.Name is ihkqipa, ability to migrate: True, weight is 228633, fraction is 0.0032497495987018495 
+It is a Bird.Name is ihojdqjwjs, ability to migrate: True, weight is 333622, fraction is 0.0032521836089946105 
+It is a Fish.Name is dnlcnjh, area is lake, weight is 226581, fraction is 0.003252699917468808 
+It is Beast.Name is bxpqrkwssu, type is predator, weight is 344622, fraction is 0.0032789549129190825 
+It is a Fish.Name is shqpn, area is river, weight is 164796, fraction is 0.0033617320808757493 
+It is a Fish.Name is cfaxgfssiy, area is lake, weight is 319828, fraction is 0.003373688357492152 
+It is Beast.Name is jsskdxlvbo, type is predator, weight is 318769, fraction is 0.0034445005631036896 
+It is a Bird.Name is vgnorfbthh, ability to migrate: False, weight is 310238, fraction is 0.0034811983058168246 
+It is Beast.Name is skpwxekxpe, type is insectivores, weight is 319673, fraction is 0.003484811041282811 
+It is a Fish.Name is obanrhpys, area is river, weight is 279704, fraction is 0.0035108543317221063 
+It is Beast.Name is lypeaebg, type is herbivores, weight is 237546, fraction is 0.0035403669184073823 
+It is a Bird.Name is c, ability to migrate: False, weight is 27946, fraction is 0.003542546339368783 
+It is Beast.Name is nf, type is predator, weight is 59295, fraction is 0.0035753436208786574 
+It is a Fish.Name is iujvb, area is lake, weight is 149036, fraction is 0.003650124802061247 
+It is Beast.Name is ytce, type is predator, weight is 116435, fraction is 0.0037531670030489113 
+It is Beast.Name is cvvfhyd, type is herbivores, weight is 202748, fraction is 0.0037583601317892163 
+It is Beast.Name is eyggorikh, type is insectivores, weight is 255912, fraction is 0.003786457844884179 
+It is Beast.Name is duerp, type is predator, weight is 139253, fraction is 0.0039065585660632085 
+It is Beast.Name is pofywa, type is herbivores, weight is 168507, fraction is 0.003928620176016427 
+It is a Fish.Name is un, area is sea, weight is 55917, fraction is 0.004059588318400487 
+It is a Fish.Name is lfjdldl, area is lake, weight is 176947, fraction is 0.004136831932725619 
+It is a Fish.Name is iifblk, area is river, weight is 145976, fraction is 0.004281525730257029 
+It is a Fish.Name is ejqak, area is sea, weight is 122248, fraction is 0.004286368693148354 
+It is a Bird.Name is aihe, ability to migrate: True, weight is 94923, fraction is 0.004287685808497413 
+It is a Fish.Name is ioprcgaa, area is lake, weight is 194981, fraction is 0.004297854662762013 
+It is Beast.Name is dgctpe, type is predator, weight is 141689, fraction is 0.0044534155791910454 
+It is Beast.Name is elybfsu, type is insectivores, weight is 170585, fraction is 0.004466981270334437 
+It is Beast.Name is jmvrcu, type is herbivores, weight is 148056, fraction is 0.004478035337980224 
+It is a Bird.Name is jbtjtgvld, ability to migrate: True, weight is 216784, fraction is 0.004479112849656801 
+It is a Fish.Name is no, area is lake, weight is 49298, fraction is 0.00448294048440099 
+It is a Fish.Name is tpujfqonef, area is lake, weight is 242685, fraction is 0.004491418917526835 
+It is a Fish.Name is ujdpluqayr, area is lake, weight is 241022, fraction is 0.0045846437254690444 
+It is a Bird.Name is vjf, ability to migrate: False, weight is 71082, fraction is 0.004586252497116007 
+It is a Fish.Name is vixmgxge, area is lake, weight is 191561, fraction is 0.004588616680848398 
+It is a Fish.Name is ungmcpew, area is sea, weight is 181038, fraction is 0.004805620919364996 
+It is Beast.Name is sdxpp, type is herbivores, weight is 115171, fraction is 0.004853652395134192 
+It is a Fish.Name is uqjrqbk, area is lake, weight is 153280, fraction is 0.005010438413361169 
+It is a Fish.Name is abvidj, area is lake, weight is 124222, fraction is 0.005023264800115922 
+It is Beast.Name is nmaujnvah, type is insectivores, weight is 190212, fraction is 0.005089058524173028 
+It is Beast.Name is ufibhchyxf, type is herbivores, weight is 209468, fraction is 0.00511772681268738 
+It is a Fish.Name is rrqlrv, area is sea, weight is 130916, fraction is 0.005201808793424792 
+It is a Fish.Name is jmaj, area is river, weight is 79658, fraction is 0.005247432775113611 
+It is a Bird.Name is nrootf, ability to migrate: False, weight is 122875, fraction is 0.005403865717192269 
+It is a Fish.Name is aocjkrx, area is river, weight is 139266, fraction is 0.005414099636666523 
+It is Beast.Name is mahtegsmnr, type is insectivores, weight is 197478, fraction is 0.005458835920963348 
+It is a Bird.Name is tqpjrww, ability to migrate: True, weight is 145791, fraction is 0.005480448038630643 
+It is a Bird.Name is wbhnqnil, ability to migrate: False, weight is 156483, fraction is 0.005540537949809244 
+It is a Bird.Name is drxrwinccb, ability to migrate: True, weight is 192185, fraction is 0.005609178655982517 
+It is a Fish.Name is grpltsipld, area is lake, weight is 191922, fraction is 0.005695021935994831 
+It is Beast.Name is kuohjademn, type is insectivores, weight is 185095, fraction is 0.005737594208379481 
+It is a Bird.Name is vkwvuylav, ability to migrate: True, weight is 177688, fraction is 0.005757282427625951 
+It is Beast.Name is pmoxorw, type is insectivores, weight is 134918, fraction is 0.005899879927066811 
+It is a Bird.Name is ksvqvdb, ability to migrate: False, weight is 129706, fraction is 0.005928792808351195 
+It is a Bird.Name is clmg, ability to migrate: False, weight is 70484, fraction is 0.00594461154304523 
+It is a Bird.Name is qnucabg, ability to migrate: True, weight is 122530, fraction is 0.006014853505264017 
+It is Beast.Name is oablceht, type is predator, weight is 137864, fraction is 0.006049440027853537 
+It is Beast.Name is rgipcf, type is herbivores, weight is 102885, fraction is 0.006171939544151237 
+It is a Bird.Name is gkwmkotatn, ability to migrate: True, weight is 174040, fraction is 0.006291657090324063 
+It is Beast.Name is ogxgoplb, type is insectivores, weight is 137232, fraction is 0.006310481520345109 
+It is Beast.Name is yuobkk, type is predator, weight is 104635, fraction is 0.006317197878338988 
+It is a Fish.Name is snqtuf, area is sea, weight is 105501, fraction is 0.006379086454156833 
+It is a Bird.Name is qabmp, ability to migrate: False, weight is 81401, fraction is 0.006498691662264591 
+It is Beast.Name is lswlglrv, type is herbivores, weight is 134719, fraction is 0.006628612148249319 
+It is a Bird.Name is viqtwjlvr, ability to migrate: True, weight is 142139, fraction is 0.007154968024257945 
+It is Beast.Name is afdhnk, type is herbivores, weight is 85901, fraction is 0.007217610970768676 
+It is a Bird.Name is xpqcbduo, ability to migrate: True, weight is 120068, fraction is 0.0072458939934037375 
+It is Beast.Name is xbpuobnf, type is insectivores, weight is 116629, fraction is 0.007442402832914627 
+It is Beast.Name is wloh, type is insectivores, weight is 57857, fraction is 0.007639525035864286 
+It is a Fish.Name is hcowwmw, area is lake, weight is 101905, fraction is 0.007654187723860458 
+It is Beast.Name is drtgxi, type is herbivores, weight is 84978, fraction is 0.007743180587916873 
+It is Beast.Name is nnlidnu, type is predator, weight is 98139, fraction is 0.0077441180366622855 
+It is Beast.Name is yqabbvsmii, type is insectivores, weight is 138470, fraction is 0.007792301581570015 
+It is Beast.Name is ipibemybhf, type is predator, weight is 135185, fraction is 0.007804120279616821 
+It is a Bird.Name is kfad, ability to migrate: True, weight is 49672, fraction is 0.008173618940248028 
+It is a Fish.Name is ctlskwdij, area is sea, weight is 114999, fraction is 0.008478334594213863 
+It is a Fish.Name is jhralrunr, area is sea, weight is 111399, fraction is 0.008833113403172381 
+It is Beast.Name is joxsoae, type is insectivores, weight is 81118, fraction is 0.009381395004807811 
+It is Beast.Name is dqspbqoknk, type is insectivores, weight is 114206, fraction is 0.009509132620002452 
+It is a Fish.Name is wxovue, area is lake, weight is 71343, fraction is 0.009615519392231894 
+It is a Bird.Name is kboyim, ability to migrate: True, weight is 65005, fraction is 0.010014614260441505 
+It is a Bird.Name is gbhaerl, ability to migrate: False, weight is 71510, fraction is 0.010138442175919452 
+It is a Bird.Name is doeeq, ability to migrate: False, weight is 48710, fraction is 0.01079860398275508 
+It is Beast.Name is erkafxmtj, type is insectivores, weight is 89797, fraction is 0.010824415069545753 
+It is Beast.Name is igfwnnyih, type is insectivores, weight is 89727, fraction is 0.01091087409586858 
+It is Beast.Name is gvdia, type is insectivores, weight is 46308, fraction is 0.011293944890731622 
+It is a Fish.Name is vqppoju, area is lake, weight is 64641, fraction is 0.01220587552791572 
+It is a Fish.Name is lcfv, area is sea, weight is 32699, fraction is 0.013058503318144286 
+It is a Fish.Name is uhxuitdo, area is river, weight is 60453, fraction is 0.014722180867781582 
+It is a Fish.Name is pkjrxweyft, area is river, weight is 75602, fraction is 0.014787968572259993 
+It is Beast.Name is sitwviovsy, type is herbivores, weight is 67742, fraction is 0.016872841073484694 
+It is Beast.Name is qxxog, type is insectivores, weight is 25480, fraction is 0.022252747252747253 
+It is Beast.Name is sdxftnajyl, type is herbivores, weight is 44855, fraction is 0.024411994203544757 
+It is a Fish.Name is qnra, area is river, weight is 16516, fraction is 0.026277549043351903 
+It is Beast.Name is hkbqilxboa, type is herbivores, weight is 29506, fraction is 0.035958788043109875 
+It is Beast.Name is hgm, type is predator, weight is 8562, fraction is 0.036907264657790234 
+It is Beast.Name is qsmr, type is herbivores, weight is 11562, fraction is 0.03900709219858156 
+It is a Fish.Name is itrwf, area is lake, weight is 11298, fraction is 0.04921224995574438 
+It is Beast.Name is senfajgxle, type is herbivores, weight is 19412, fraction is 0.05475994230372965 
+It is a Fish.Name is wxjg, area is sea, weight is 6365, fraction is 0.07038491751767478 
+It is a Fish.Name is nqmsgs, area is river, weight is 7449, fraction is 0.08927372801718352 
+It is a Bird.Name is chxvxhtlso, ability to migrate: True, weight is 6575, fraction is 0.16958174904942966 
